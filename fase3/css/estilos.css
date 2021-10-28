@@ -1,0 +1,21 @@
+header{
+    background-color: aqua;
+}
+nav{
+    background-color: rgb(21, 128, 128);
+}
+section{
+    background-color: beige;
+    grid-column: 1/4 ;
+}
+aside{
+    background-color: burlywood;
+    grid-column: 4/5 ;
+}
+footer{
+    background-color: rgb(110, 238, 238);
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
