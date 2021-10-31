@@ -1,15 +1,16 @@
 header{
-    background-color: aqua;
+    background-color: rgb(12, 119, 119);
+    color: white;
 }
 nav{
-    background-color: rgb(21, 128, 128);
-}
+    background-color: rgb(21, 197, 197);
+ }
 section{
-    background-color: beige;
+    background-color:azure;
     grid-column: 1/4 ;
 }
 aside{
-    background-color: burlywood;
+    background-color: rgb(226, 207, 183);
     grid-column: 4/5 ;
 }
 footer{
