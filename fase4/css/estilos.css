@@ -1,0 +1,22 @@
+header{
+    background-color: rgb(12, 119, 119);
+    color: white;
+}
+nav{
+    background-color: rgb(21, 197, 197);
+ }
+section{
+    background-color:azure;
+    grid-column: 1/4 ;
+}
+aside{
+    background-color: rgb(226, 207, 183);
+    grid-column: 4/5 ;
+}
+footer{
+    background-color: rgb(110, 238, 238);
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+}
